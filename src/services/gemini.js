@@ -2,7 +2,7 @@
 // NOTE: For a school project this is okay, but in real apps
 // you should keep API keys on a backend server.
 
-const GEMINI_API_KEY = 'AIzaSyC7fncsT6DcHokncYzxQburDzUHiLWy--o'; // <-- put your key here
+const GEMINI_API_KEY = 'YOUR_GEMINI_KEY'; // <-- put your key here
 const GEMINI_MODEL = 'gemini-2.5-flash'; // or 'gemini-flash-latest'
 
 /**
